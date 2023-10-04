@@ -1,11 +1,16 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;+I+am+Rafael+Souza!+🇧🇷;&center=true&size=15">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;+Happy+to+see+you+here+!!;+I+am+Lucas+Matos!;&center=true&size=15">
   </a>
 
-<h5 align="center"> - 🌱 I`m graduated from the <a href="https://www.betrybe.com/"><i>Trybe</i></a> FullStack Web Development course!</h5>
+<h5 align="center"> - 🎓 I'm currently studying the <a href="https://www.betrybe.com/"><i>Trybe</i></a> FullStack Web Development course!</h5>
 
-<h5 align="center"> - 🧠 Currently learning Java </h5>
+<h5 align="center"> - 🧠 Learning Java </h5>
+
+<h5 align="center"> - 🚀 Passionate about technology and addicted to coding, I'm on a never-ending journey to explore the vast world of software development.
+</h5>
+
+<h5 align="center"> - 🔗 Let's connect and collaborate on exciting projects. Together, we can write the future in code!</h5>
 
 ##
 

@@ -25,10 +25,10 @@
     <img align="center" alt="typescript" width="30" src="https://skillicons.dev/icons?i=ts" />
     <img align="center" alt="javascript" width="30" src="https://skillicons.dev/icons?i=js" />
     <img align="center" alt="Python" width="30" src="https://skillicons.dev/icons?i=py" />
-     <img align="center" alt="Java" width="30" src="https://skillicons.dev/icons?i=java" />
+    <img align="center" alt="Java" width="30" src="https://skillicons.dev/icons?i=java" />
     <img align="center" alt="Node.js" width="30" src="https://skillicons.dev/icons?i=nodejs" />
     <img align="center" alt="HTML" width="30" src="https://skillicons.dev/icons?i=html" />
-    <img align="center" alt="CSS" width="30" src="https://skillicons.dev/icons?i=css" /> -->
+    <img align="center" alt="CSS" width="30" src="https://skillicons.dev/icons?i=css" />
     <img align="center" alt="react" width="30" src="https://skillicons.dev/icons?i=react" />
     <img align="center" alt="redux" width="30" src="https://skillicons.dev/icons?i=redux" />
     <img align="center" alt="jest" width="30" src="https://skillicons.dev/icons?i=jest" />
